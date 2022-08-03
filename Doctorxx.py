@@ -1,5 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/php
-<?php
+<?php/>
 error_reporting(0);
 system("clear");
 $green = "\e[92m";
