@@ -10,7 +10,7 @@ function input($pesan) {
 }
 function asciiart() {
     system("clear");
-    echo "\n \e[93m
+    echo "\n \e[93m";
    _____   __    _ __                           
     /  '  /  )  ' )  )            _/_           
  ,-/-,   /--<    /--'  _  __.  _. /   o __ ____ 
