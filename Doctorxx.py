@@ -1,7 +1,6 @@
 <?php
-
 require_once('lib/fb.php');
-
+?>
 //////////////////////////////////////////////[edit authentication here]///////////////////////////////////////////
 $user		= 'lucifer.inside'; // facebook username / email
 $pass 		= 'toketkenyel'; // facebook passwod
